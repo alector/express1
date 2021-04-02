@@ -1,2 +1,2 @@
-# express1
-demo example with node express
+# Express
+A simple server with node express
